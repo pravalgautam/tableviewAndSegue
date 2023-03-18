@@ -16,6 +16,8 @@
 		40EC3D6D29C5C71D00F0CD1D /* tableviewswifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EC3D6C29C5C71D00F0CD1D /* tableviewswifyTests.swift */; };
 		40EC3D7729C5C71D00F0CD1D /* tableviewswifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EC3D7629C5C71D00F0CD1D /* tableviewswifyUITests.swift */; };
 		40EC3D7929C5C71D00F0CD1D /* tableviewswifyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EC3D7829C5C71D00F0CD1D /* tableviewswifyUITestsLaunchTests.swift */; };
+		40EC3D8629C5CABE00F0CD1D /* datastudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EC3D8529C5CABE00F0CD1D /* datastudent.swift */; };
+		40EC3D8829C5E63B00F0CD1D /* PdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EC3D8729C5E63B00F0CD1D /* PdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		40EC3D7229C5C71D00F0CD1D /* tableviewswifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableviewswifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40EC3D7629C5C71D00F0CD1D /* tableviewswifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableviewswifyUITests.swift; sourceTree = "<group>"; };
 		40EC3D7829C5C71D00F0CD1D /* tableviewswifyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableviewswifyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		40EC3D8529C5CABE00F0CD1D /* datastudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = datastudent.swift; sourceTree = "<group>"; };
+		40EC3D8729C5E63B00F0CD1D /* PdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				40EC3D5E29C5C71D00F0CD1D /* Assets.xcassets */,
 				40EC3D6029C5C71D00F0CD1D /* LaunchScreen.storyboard */,
 				40EC3D6329C5C71D00F0CD1D /* Info.plist */,
+				40EC3D8529C5CABE00F0CD1D /* datastudent.swift */,
+				40EC3D8729C5E63B00F0CD1D /* PdViewController.swift */,
 			);
 			path = tableviewswify;
 			sourceTree = "<group>";
@@ -259,6 +265,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				40EC3D5A29C5C71C00F0CD1D /* ViewController.swift in Sources */,
+				40EC3D8629C5CABE00F0CD1D /* datastudent.swift in Sources */,
+				40EC3D8829C5E63B00F0CD1D /* PdViewController.swift in Sources */,
 				40EC3D5629C5C71C00F0CD1D /* AppDelegate.swift in Sources */,
 				40EC3D5829C5C71C00F0CD1D /* SceneDelegate.swift in Sources */,
 			);
